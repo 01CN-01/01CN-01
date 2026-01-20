@@ -26,6 +26,7 @@ Aspiring **Junior Python Developer** building practical projects to strengthen m
 
 
 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calum-n-874588294/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:c.neizer2007@gmail.com)
 

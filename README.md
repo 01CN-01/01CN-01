@@ -1,10 +1,11 @@
 💫 About Me:
 👋 Hey — I’m Callum  
-Aspiring **Junior Python Developer** building practical projects to strengthen my coding skills.
+Aspiring **Junior Python Developer** building practical, hands-on projects to strengthen my core programming skills.
 
 🔭 I’m currently working on
-- Small, focused Python projects that demonstrate real-world skills
+- Small, focused Python projects that demonstrate real-world problem solving
 - A **CSV Spending Tracker** (file handling, validation, summaries, reports)
+- A **Student Course Record System** using **SQL (SQLite – in progress)**
 
 👯 I’m looking to collaborate on
 - Beginner-friendly Python projects
@@ -12,27 +13,29 @@ Aspiring **Junior Python Developer** building practical projects to strengthen m
 
 🤝 I’m looking for help with
 - Writing cleaner, more maintainable Python code
-- Making projects more polished and deployment-ready
+- Improving project structure and overall code quality
 
 🌱 I’m currently learning
-- Python 🐍 (file handling, error handling, OOP basics)
+- Python 🐍 (file handling, error handling, OOP)
+- SQL (SQLite fundamentals)
 
 💬 Ask me about
-- My CSV Spending Tracker
-- Quiz App, Number-Guessing Game, and Simple Calculator
+- CSV-based data management projects
+- CLI Python applications
+- Refactoring small Python programs
 
 ⚡ Fun fact
-- I enjoy turning simple ideas into small, functional Python projects
+- I enjoy turning simple ideas into small, functional tools.
 
 
 🌐 Socials:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calum-n-874588294/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:c.neizer2007@gmail.com)
 
 
 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 

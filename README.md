@@ -1,51 +1,60 @@
-💫 About Me  
-👋 Hi — I’m Callum  
+# Hi, I'm Callum 👋
 
-Backend-focused Junior Software Developer with a strong foundation in **Python** and **SQL**.  
-I build practical, production-style CLI applications with **authentication**, **role-based access control**, **secure password handling**, and **defensive error handling**.  
-I enjoy turning real-world problems into small, reliable backend systems.
+Backend-focused Junior Developer building APIs and backend systems using **Python, FastAPI, and SQL**.
 
----
-
-🚀 Featured Project  
-**Help Desk Ticket System (Python, SQLite)**
-
-- Built a backend-focused CLI application with user authentication and role-based permissions (User / Staff)
-- Implemented secure password hashing and verification
-- Designed SQL schemas and enforced ticket ownership at query level
-- Used parameterised queries to prevent SQL injection
-- Added logging, validation, and defensive error handling to maintain application stability
-- Structured the codebase with clear separation of concerns and reusable validation functions
+I enjoy turning real-world problems into small, reliable backend services. Most of my projects focus on API design, database querying, authentication flows, and defensive error handling.
 
 ---
 
-🔭 Other Projects
-- **CSV Spending Tracker** – file handling, validation, summaries, and reports
-- **Student Course Record System** – SQLite-based backend system (in progress)
+## 🚀 Featured Projects
+
+### Personal Finance API
+
+REST API for tracking personal income and expenses.
+
+* Built using **FastAPI and SQLite**
+* Implemented **user authentication and secure password hashing**
+* Enforced **user data ownership** so users can only access their own transactions
+* CRUD endpoints for managing financial records
+* Category-based filtering and spending queries
 
 ---
 
-👯 Open to Collaboration
-- Beginner-friendly Python projects
-- Code reviews and small refactors
-- Improving structure and readability of existing Python codebases
+### Country Data API
+
+Backend API that synchronises country data from an external API and stores it locally.
+
+* Dynamic filtering (country, region, capital, population)
+* Combined query filtering
+* Case-insensitive search
+* Endpoint testing using **Pytest**
+* Structured using routers, models, and service layers
 
 ---
 
-🌱 Currently Improving
-- Python backend design and code quality
-- SQL data modelling and query logic
-- Application structure, logging, and security fundamentals
+### Help Desk Ticket System
+
+Backend-focused CLI system for managing support tickets.
+
+* User authentication and role-based permissions
+* Secure password hashing
+* SQL database design and ownership enforcement
+* Logging, validation, and defensive error handling
 
 ---
 
-💬 Ask Me About
-- Backend-focused Python projects
-- CLI application design
-- SQL with Python (SQLite)
-- Refactoring and improving small Python programs
+## 🛠 Tech Stack
+
+Python
+FastAPI
+SQL / SQLite
+REST APIs
+Git & GitHub
 
 ---
 
-⚡ Fun Fact
-- I enjoy turning simple ideas into functional tools that actually
+## 🌱 Currently Improving
+
+Backend architecture and service design
+API security and authentication
+Testing and maintainable backend systems

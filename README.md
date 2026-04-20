@@ -1,8 +1,10 @@
 # Hi, I'm Callum 👋
 
-Backend-focused Junior Developer building APIs and backend systems using **Python, FastAPI, and SQL**.
+Backend-focused developer building **production-style APIs** using Python, FastAPI, and SQL.
 
-I enjoy turning real-world problems into small, reliable backend services. Most of my projects focus on API design, database querying, authentication flows, and defensive error handling.
+I focus on writing backend systems that are **structured, secure, and scalable**, with clear separation of concerns, proper data ownership, and defensive error handling.
+
+Currently working towards a **Junior Backend Developer role**, improving my skills in API architecture, authentication, and real-world backend patterns.
 
 ---
 
@@ -10,51 +12,71 @@ I enjoy turning real-world problems into small, reliable backend services. Most 
 
 ### Personal Finance API
 
-REST API for tracking personal income and expenses.
+Production-style REST API for managing user financial data.
 
-* Built using **FastAPI and SQLite**
-* Implemented **user authentication and secure password hashing**
-* Enforced **user data ownership** so users can only access their own transactions
-* CRUD endpoints for managing financial records
-* Category-based filtering and spending queries
+**Key features:**
+
+* JWT-based authentication and secure password hashing
+* Enforced **user-level data isolation** at query level
+* Structured using routers, services, and database layers
+* Category-based filtering and query-driven endpoints
+
+**Backend focus:**
+
+* Designed relational schema for users, categories, and transactions
+* Used parameterised SQL queries to prevent injection
+* Built with scalability in mind (separation of concerns, modular structure)
 
 ---
 
 ### Country Data API
 
-Backend API that synchronises country data from an external API and stores it locally.
+API that syncs external country data and supports flexible querying.
 
-* Dynamic filtering (country, region, capital, population)
-* Combined query filtering
+**Key features:**
+
+* Dynamic multi-parameter filtering (country, region, capital, population)
 * Case-insensitive search
-* Endpoint testing using **Pytest**
-* Structured using routers, models, and service layers
+* Combined query handling with optional filters
+* Endpoint testing using Pytest
+
+**Backend focus:**
+
+* Designed queries to handle multiple optional filters efficiently
+* Implemented service layer to separate business logic from routing
 
 ---
 
 ### Help Desk Ticket System
 
-Backend-focused CLI system for managing support tickets.
+CLI-based backend system simulating internal support tooling.
 
-* User authentication and role-based permissions
-* Secure password hashing
-* SQL database design and ownership enforcement
+**Key features:**
+
+* Authentication system with role-based access control (User / Staff)
+* Ticket ownership enforced at database level
 * Logging, validation, and defensive error handling
+
+**Backend focus:**
+
+* Designed schema for ticket lifecycle management
+* Focused on secure data handling and permission enforcement
 
 ---
 
 ## 🛠 Tech Stack
 
-Python
-FastAPI
-SQL / SQLite
-REST APIs
-Git & GitHub
+* Python
+* FastAPI
+* SQL (SQLite, learning PostgreSQL)
+* REST API Design
+* Git & GitHub
 
 ---
 
 ## 🌱 Currently Improving
 
-Backend architecture and service design
-API security and authentication
-Testing and maintainable backend systems
+* Deploying APIs (Docker, cloud platforms)
+* PostgreSQL and production-ready databases
+* Advanced authentication patterns (JWT, dependency injection)
+* Writing cleaner, testable backend architecture
